@@ -11,16 +11,16 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
   - title: MySkils
     url: /t/
   - title: VideoGamesFun
     url: /t/VideoGamesFun/
+  - title: Contact
+    url: /contact
   - title: C-M-D
     url: /t/C-M-D/
+  - title: About
+    url: /about
     
     
 email: tirranaa@gmail.com
