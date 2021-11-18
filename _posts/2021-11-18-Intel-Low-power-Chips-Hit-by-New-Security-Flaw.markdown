@@ -4,6 +4,7 @@ title: Intel Low-power Chips Hit by New Security Flaw
 date:   2021-11-18 20:47:04 +0200
 slug: blog
 description: A category for general blog posts.
+image:https://cdn.mos.cms.futurecdn.net/PWnQuGZrReBRM6BFmiCMYj-970-80.jpg.webp
 ---
 
 ## Intel Low-power Chips Hit by New Security Flaw
