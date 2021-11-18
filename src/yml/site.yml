@@ -1,0 +1,25 @@
+name: Ivaylo Yordanov
+title: tirranaa | Ivaylo Yordanov
+description: Ivaylo Yordanov website and tirranaa blogging Site 
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: tirranaa@gmail.com
+# See: https://disqus.com/
+disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
