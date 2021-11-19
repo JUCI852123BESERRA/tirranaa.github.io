@@ -22,7 +22,7 @@ menu:
   - title: About
     url: /about
   - title: Admin Panel
-    url: https://tirranaa.netlify.app/admin/
+    url: "https://tirranaa.netlify.app/admin/"
     
     
 email: tirranaa@gmail.com
