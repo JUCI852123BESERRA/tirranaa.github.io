@@ -10,7 +10,8 @@ Jekyll can be located here: [jekyllrb.com](https://jekyllrb.com/docs/),
 
 ###### [credit: jekyllrb.com](https://jekyllrb.com/)
 
- ### My personal page.
+## Integrations
+### My personal page.
 #### about me, list of my skills and contact information.
 - Seo Optimized.
 - Added Ip Checker and log.
