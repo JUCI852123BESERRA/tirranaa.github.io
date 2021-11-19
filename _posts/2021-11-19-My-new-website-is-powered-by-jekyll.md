@@ -3,11 +3,9 @@ date: 2021-11-19 08:10:00
 layout: post
 title: My new Website is powered by jekyll 
 subtitle: using jekflix-modified-template
-description: 
+description: jekyll credit
 author: tirranaa
 category: blog
-slug: blog
-category: work
 tags:
   - work
   - IT
