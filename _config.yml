@@ -1,12 +1,11 @@
 name: Ivaylo Yordanov
 title: tirranaa | Ivaylo Yordanov
-description: tirranaa blogging Site, VideoGamesFun on Ivaylo Yordanov website  
+description: tirranaa blogging Site and VideoGamesFun on Ivaylo Yordanov website  
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - tirranaa
+  - Ivaylo Yordanov
+  - VideoGamesFun
+  - tirranaa blog
 show_hero: false
 menu:
   - title: Home
@@ -21,10 +20,7 @@ menu:
     url: /t/C-M-D/
   - title: About
     url: /about
-  - title: My Admin Panel
-    url: "https://tirranaa.netlify.app/admin/"
-    
-    
+   
 email: tirranaa@gmail.com
 # See: https://disqus.com/
 disqus_username: tirranaa-github-io
