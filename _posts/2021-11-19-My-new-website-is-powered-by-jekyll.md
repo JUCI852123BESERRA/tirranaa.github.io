@@ -2,15 +2,16 @@
 date: 2021-11-19 08:10:00
 layout: post
 title: My new Website is powered by jekyll 
-subtitle: using jekflix-modified-template
+subtitle: using jekflix modified template
 description: jekyll credit
-author: tirranaa
 category: blog
 tags:
-  - work
+  - blog
   - IT
 image: https://jekyllrb.com/img/jekyll-og.png
+author: tirranaa
 ---
+
 ## My new website is powered by jekyll
 This post is meant to give creadit to jekyll, Ruby and Jekflix-Template.
 ###### [credit: jekyllrb.com](https://jekyllrb.com/)
