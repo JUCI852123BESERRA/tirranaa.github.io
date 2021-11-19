@@ -11,13 +11,13 @@ show_hero: false
 menu:
   - title: Home
     url: /
-  - title: MySkils
+  - title: My Skills
     url: /t/
-  - title: VideoGamesFun
+  - title: Video Games Fun
     url: /t/VideoGamesFun/
   - title: Contact
     url: /contact
-  - title: C-M-D
+  - title: C M D
     url: /t/C-M-D/
   - title: About
     url: /about
@@ -106,4 +106,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+# version: v3.1.1
